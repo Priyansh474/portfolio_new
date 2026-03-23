@@ -135,8 +135,4 @@ export const socials = [
   { name: "LinkedIn", href: "https://www.linkedin.com/in/dheerajsalaskar/" },
 
   { name: "GitHub", href: "https://github.com/Priyansh474" },
-  {
-    name: "CV",
-    href: "https://drive.google.com/file/d/18eZI-y0WaREOYVGwBOuGfaiz0QTqUgoO/view?usp=sharing",
-  },
 ];
