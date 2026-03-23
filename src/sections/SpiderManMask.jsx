@@ -82,14 +82,6 @@ const SpiderManMask = () => {
       </div>
 
       <div className="pointer-events-none absolute inset-x-0 bottom-6 z-30 flex flex-col items-center justify-center text-black/70">
-        <div className="mb-2 flex flex-col items-center leading-none">
-          <span className="text-4xl -mt-30 font-black animate-bounce [animation-delay:0ms]">
-            ⌄
-          </span>
-          <span className="text-4xl font-black -mt-1animate-bounce [animation-delay:120ms]">
-            ⌄
-          </span>
-        </div>
         <p className="text-xs  mb-5 font-semibold tracking-[0.28em] md:text-sm">
           SCROLL DOWN
         </p>
